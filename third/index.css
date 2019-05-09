@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.box1 {
+    width: 100vw;
+    height: 13vh;
+    background-color: lightgray;
+}
+
+.box2 {
+    width: 100vw;
+    height: 30vh;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 30px 80px;
+    padding-top: 80px;
+}
+
+.box3 {
+    width: 100vw;
+    height: 13vh;
+    background-color: rgb(92, 111, 221);
+}
+
+.box4 {
+    width: 100vw;
+    height: 13vh;
+    background-color: aquamarine;
+}
+
+.box5 {
+    width: 100vw;
+    height: 13vh;
+    background-color: rgb(187, 219, 111);
+}
+
+.box6 {
+    width: 100vw;
+    height: 13vh;
+    background-color: yellow;
+}
+
+span {
+    align: center;
+    text-align: center;
+    display: inline-block;
+}
